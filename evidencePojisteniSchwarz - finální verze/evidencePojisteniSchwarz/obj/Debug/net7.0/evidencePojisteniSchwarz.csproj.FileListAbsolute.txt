@@ -1,0 +1,45 @@
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.exe
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.deps.json
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.runtimeconfig.json
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.dll
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.pdb
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.csproj.AssemblyReference.cache
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.AssemblyInfoInputs.cache
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.AssemblyInfo.cs
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.dll
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\refint\evidencePojisteniSchwarz.dll
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.pdb
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.genruntimeconfig.cache
+C:\Users\DELL\Dropbox\závěrečný projekt\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\ref\evidencePojisteniSchwarz.dll
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.exe
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.deps.json
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.runtimeconfig.json
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.dll
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.pdb
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.AssemblyInfo.cs
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.dll
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\refint\evidencePojisteniSchwarz.dll
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.pdb
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.genruntimeconfig.cache
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz\evidencePojisteniSchwarz\obj\Debug\net7.0\ref\evidencePojisteniSchwarz.dll
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.exe
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.deps.json
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.runtimeconfig.json
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.dll
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\bin\Debug\net7.0\evidencePojisteniSchwarz.pdb
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.AssemblyInfo.cs
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.dll
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\obj\Debug\net7.0\refint\evidencePojisteniSchwarz.dll
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.pdb
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\obj\Debug\net7.0\evidencePojisteniSchwarz.genruntimeconfig.cache
+C:\Users\DELL\Desktop\evidencePojisteniSchwarz - finální verze\evidencePojisteniSchwarz\obj\Debug\net7.0\ref\evidencePojisteniSchwarz.dll
