@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\bin\Debug\net7.0\jmenoVlastnost.exe
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\bin\Debug\net7.0\jmenoVlastnost.deps.json
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\bin\Debug\net7.0\jmenoVlastnost.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\bin\Debug\net7.0\jmenoVlastnost.dll
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\bin\Debug\net7.0\jmenoVlastnost.pdb
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\obj\Debug\net7.0\jmenoVlastnost.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\obj\Debug\net7.0\jmenoVlastnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\obj\Debug\net7.0\jmenoVlastnost.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\obj\Debug\net7.0\jmenoVlastnost.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\obj\Debug\net7.0\jmenoVlastnost.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\obj\Debug\net7.0\jmenoVlastnost.dll
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\obj\Debug\net7.0\refint\jmenoVlastnost.dll
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\obj\Debug\net7.0\jmenoVlastnost.pdb
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\obj\Debug\net7.0\jmenoVlastnost.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\jmenoVlastnost\jmenoVlastnost\obj\Debug\net7.0\ref\jmenoVlastnost.dll

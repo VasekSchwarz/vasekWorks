@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\bin\Debug\net7.0\jednoduchaPodminka.exe
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\bin\Debug\net7.0\jednoduchaPodminka.deps.json
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\bin\Debug\net7.0\jednoduchaPodminka.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\bin\Debug\net7.0\jednoduchaPodminka.dll
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\bin\Debug\net7.0\jednoduchaPodminka.pdb
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\obj\Debug\net7.0\jednoduchaPodminka.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\obj\Debug\net7.0\jednoduchaPodminka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\obj\Debug\net7.0\jednoduchaPodminka.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\obj\Debug\net7.0\jednoduchaPodminka.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\obj\Debug\net7.0\jednoduchaPodminka.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\obj\Debug\net7.0\jednoduchaPodminka.dll
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\obj\Debug\net7.0\refint\jednoduchaPodminka.dll
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\obj\Debug\net7.0\jednoduchaPodminka.pdb
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\obj\Debug\net7.0\jednoduchaPodminka.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\jednoduchaPodminka\jednoduchaPodminka\obj\Debug\net7.0\ref\jednoduchaPodminka.dll

@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\bin\Debug\net7.0\jmenoPrijmenivek.exe
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\bin\Debug\net7.0\jmenoPrijmenivek.deps.json
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\bin\Debug\net7.0\jmenoPrijmenivek.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\bin\Debug\net7.0\jmenoPrijmenivek.dll
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\bin\Debug\net7.0\jmenoPrijmenivek.pdb
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\obj\Debug\net7.0\jmenoPrijmenivek.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\obj\Debug\net7.0\jmenoPrijmenivek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\obj\Debug\net7.0\jmenoPrijmenivek.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\obj\Debug\net7.0\jmenoPrijmenivek.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\obj\Debug\net7.0\jmenoPrijmenivek.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\obj\Debug\net7.0\jmenoPrijmenivek.dll
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\obj\Debug\net7.0\refint\jmenoPrijmenivek.dll
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\obj\Debug\net7.0\jmenoPrijmenivek.pdb
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\obj\Debug\net7.0\jmenoPrijmenivek.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\jmenoPrijmenivek\jmenoPrijmenivek\obj\Debug\net7.0\ref\jmenoPrijmenivek.dll

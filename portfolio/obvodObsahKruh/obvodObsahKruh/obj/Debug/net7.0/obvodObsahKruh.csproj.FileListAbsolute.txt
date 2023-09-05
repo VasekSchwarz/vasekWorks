@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\bin\Debug\net7.0\obvodObsahKruh.exe
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\bin\Debug\net7.0\obvodObsahKruh.deps.json
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\bin\Debug\net7.0\obvodObsahKruh.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\bin\Debug\net7.0\obvodObsahKruh.dll
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\bin\Debug\net7.0\obvodObsahKruh.pdb
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\obj\Debug\net7.0\obvodObsahKruh.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\obj\Debug\net7.0\obvodObsahKruh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\obj\Debug\net7.0\obvodObsahKruh.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\obj\Debug\net7.0\obvodObsahKruh.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\obj\Debug\net7.0\obvodObsahKruh.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\obj\Debug\net7.0\obvodObsahKruh.dll
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\obj\Debug\net7.0\refint\obvodObsahKruh.dll
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\obj\Debug\net7.0\obvodObsahKruh.pdb
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\obj\Debug\net7.0\obvodObsahKruh.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\obvodObsahKruh\obvodObsahKruh\obj\Debug\net7.0\ref\obvodObsahKruh.dll

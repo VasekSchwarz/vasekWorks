@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\bin\Debug\net7.0\umocnovac.exe
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\bin\Debug\net7.0\umocnovac.deps.json
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\bin\Debug\net7.0\umocnovac.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\bin\Debug\net7.0\umocnovac.dll
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\bin\Debug\net7.0\umocnovac.pdb
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\obj\Debug\net7.0\umocnovac.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\obj\Debug\net7.0\umocnovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\obj\Debug\net7.0\umocnovac.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\obj\Debug\net7.0\umocnovac.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\obj\Debug\net7.0\umocnovac.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\obj\Debug\net7.0\umocnovac.dll
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\obj\Debug\net7.0\refint\umocnovac.dll
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\obj\Debug\net7.0\umocnovac.pdb
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\obj\Debug\net7.0\umocnovac.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\umocnovac\umocnovac\obj\Debug\net7.0\ref\umocnovac.dll

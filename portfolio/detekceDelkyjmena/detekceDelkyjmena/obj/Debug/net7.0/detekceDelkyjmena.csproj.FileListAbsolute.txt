@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\bin\Debug\net7.0\detekceDelkyjmena.exe
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\bin\Debug\net7.0\detekceDelkyjmena.deps.json
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\bin\Debug\net7.0\detekceDelkyjmena.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\bin\Debug\net7.0\detekceDelkyjmena.dll
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\bin\Debug\net7.0\detekceDelkyjmena.pdb
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\obj\Debug\net7.0\detekceDelkyjmena.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\obj\Debug\net7.0\detekceDelkyjmena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\obj\Debug\net7.0\detekceDelkyjmena.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\obj\Debug\net7.0\detekceDelkyjmena.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\obj\Debug\net7.0\detekceDelkyjmena.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\obj\Debug\net7.0\detekceDelkyjmena.dll
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\obj\Debug\net7.0\refint\detekceDelkyjmena.dll
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\obj\Debug\net7.0\detekceDelkyjmena.pdb
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\obj\Debug\net7.0\detekceDelkyjmena.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\detekceDelkyjmena\detekceDelkyjmena\obj\Debug\net7.0\ref\detekceDelkyjmena.dll

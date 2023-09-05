@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\bin\Debug\net7.0\obsahSlov.exe
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\bin\Debug\net7.0\obsahSlov.deps.json
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\bin\Debug\net7.0\obsahSlov.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\bin\Debug\net7.0\obsahSlov.dll
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\bin\Debug\net7.0\obsahSlov.pdb
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\obj\Debug\net7.0\obsahSlov.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\obj\Debug\net7.0\obsahSlov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\obj\Debug\net7.0\obsahSlov.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\obj\Debug\net7.0\obsahSlov.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\obj\Debug\net7.0\obsahSlov.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\obj\Debug\net7.0\obsahSlov.dll
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\obj\Debug\net7.0\refint\obsahSlov.dll
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\obj\Debug\net7.0\obsahSlov.pdb
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\obj\Debug\net7.0\obsahSlov.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\obsahSlov\obsahSlov\obj\Debug\net7.0\ref\obsahSlov.dll

@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\bin\Debug\net7.0\cykly.exe
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\bin\Debug\net7.0\cykly.deps.json
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\bin\Debug\net7.0\cykly.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\bin\Debug\net7.0\cykly.dll
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\bin\Debug\net7.0\cykly.pdb
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\obj\Debug\net7.0\cykly.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\obj\Debug\net7.0\cykly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\obj\Debug\net7.0\cykly.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\obj\Debug\net7.0\cykly.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\obj\Debug\net7.0\cykly.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\obj\Debug\net7.0\cykly.dll
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\obj\Debug\net7.0\refint\cykly.dll
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\obj\Debug\net7.0\cykly.pdb
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\obj\Debug\net7.0\cykly.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\cykly\cykly\obj\Debug\net7.0\ref\cykly.dll

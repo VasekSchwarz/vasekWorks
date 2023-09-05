@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\bin\Debug\net7.0\porovnaniSlov.exe
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\bin\Debug\net7.0\porovnaniSlov.deps.json
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\bin\Debug\net7.0\porovnaniSlov.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\bin\Debug\net7.0\porovnaniSlov.dll
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\bin\Debug\net7.0\porovnaniSlov.pdb
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\obj\Debug\net7.0\porovnaniSlov.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\obj\Debug\net7.0\porovnaniSlov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\obj\Debug\net7.0\porovnaniSlov.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\obj\Debug\net7.0\porovnaniSlov.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\obj\Debug\net7.0\porovnaniSlov.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\obj\Debug\net7.0\porovnaniSlov.dll
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\obj\Debug\net7.0\refint\porovnaniSlov.dll
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\obj\Debug\net7.0\porovnaniSlov.pdb
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\obj\Debug\net7.0\porovnaniSlov.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\porovnaniSlov\porovnaniSlov\obj\Debug\net7.0\ref\porovnaniSlov.dll

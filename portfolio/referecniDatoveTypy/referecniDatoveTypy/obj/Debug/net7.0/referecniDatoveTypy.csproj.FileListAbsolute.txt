@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\bin\Debug\net7.0\referecniDatoveTypy.exe
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\bin\Debug\net7.0\referecniDatoveTypy.deps.json
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\bin\Debug\net7.0\referecniDatoveTypy.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\bin\Debug\net7.0\referecniDatoveTypy.dll
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\bin\Debug\net7.0\referecniDatoveTypy.pdb
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\obj\Debug\net7.0\referecniDatoveTypy.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\obj\Debug\net7.0\referecniDatoveTypy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\obj\Debug\net7.0\referecniDatoveTypy.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\obj\Debug\net7.0\referecniDatoveTypy.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\obj\Debug\net7.0\referecniDatoveTypy.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\obj\Debug\net7.0\referecniDatoveTypy.dll
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\obj\Debug\net7.0\refint\referecniDatoveTypy.dll
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\obj\Debug\net7.0\referecniDatoveTypy.pdb
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\obj\Debug\net7.0\referecniDatoveTypy.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\referecniDatoveTypy\referecniDatoveTypy\obj\Debug\net7.0\ref\referecniDatoveTypy.dll

@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\bin\Debug\net7.0\jednoduchySwitch.exe
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\bin\Debug\net7.0\jednoduchySwitch.deps.json
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\bin\Debug\net7.0\jednoduchySwitch.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\bin\Debug\net7.0\jednoduchySwitch.dll
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\bin\Debug\net7.0\jednoduchySwitch.pdb
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\obj\Debug\net7.0\jednoduchySwitch.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\obj\Debug\net7.0\jednoduchySwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\obj\Debug\net7.0\jednoduchySwitch.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\obj\Debug\net7.0\jednoduchySwitch.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\obj\Debug\net7.0\jednoduchySwitch.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\obj\Debug\net7.0\jednoduchySwitch.dll
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\obj\Debug\net7.0\refint\jednoduchySwitch.dll
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\obj\Debug\net7.0\jednoduchySwitch.pdb
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\obj\Debug\net7.0\jednoduchySwitch.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\jednoduchySwitch\jednoduchySwitch\obj\Debug\net7.0\ref\jednoduchySwitch.dll

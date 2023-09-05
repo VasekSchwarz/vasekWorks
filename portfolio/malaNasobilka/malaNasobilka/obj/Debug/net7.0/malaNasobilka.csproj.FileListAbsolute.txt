@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\bin\Debug\net7.0\malaNasobilka.exe
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\bin\Debug\net7.0\malaNasobilka.deps.json
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\bin\Debug\net7.0\malaNasobilka.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\bin\Debug\net7.0\malaNasobilka.dll
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\bin\Debug\net7.0\malaNasobilka.pdb
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\obj\Debug\net7.0\malaNasobilka.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\obj\Debug\net7.0\malaNasobilka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\obj\Debug\net7.0\malaNasobilka.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\obj\Debug\net7.0\malaNasobilka.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\obj\Debug\net7.0\malaNasobilka.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\obj\Debug\net7.0\malaNasobilka.dll
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\obj\Debug\net7.0\refint\malaNasobilka.dll
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\obj\Debug\net7.0\malaNasobilka.pdb
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\obj\Debug\net7.0\malaNasobilka.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\malaNasobilka\malaNasobilka\obj\Debug\net7.0\ref\malaNasobilka.dll

@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\bin\Debug\net7.0\detektorSmajlíků.exe
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\bin\Debug\net7.0\detektorSmajlíků.deps.json
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\bin\Debug\net7.0\detektorSmajlíků.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\bin\Debug\net7.0\detektorSmajlíků.dll
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\bin\Debug\net7.0\detektorSmajlíků.pdb
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\obj\Debug\net7.0\detektorSmajlíků.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\obj\Debug\net7.0\detektorSmajlíků.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\obj\Debug\net7.0\detektorSmajlíků.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\obj\Debug\net7.0\detektorSmajlíků.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\obj\Debug\net7.0\detektorSmajlíků.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\obj\Debug\net7.0\detektorSmajlíků.dll
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\obj\Debug\net7.0\refint\detektorSmajlíků.dll
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\obj\Debug\net7.0\detektorSmajlíků.pdb
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\obj\Debug\net7.0\detektorSmajlíků.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\detektorSmajlíků\detektorSmajlíků\obj\Debug\net7.0\ref\detektorSmajlíků.dll

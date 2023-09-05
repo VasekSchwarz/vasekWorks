@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\bin\Debug\net7.0\podminkyDva.exe
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\bin\Debug\net7.0\podminkyDva.deps.json
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\bin\Debug\net7.0\podminkyDva.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\bin\Debug\net7.0\podminkyDva.dll
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\bin\Debug\net7.0\podminkyDva.pdb
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\obj\Debug\net7.0\podminkyDva.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\obj\Debug\net7.0\podminkyDva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\obj\Debug\net7.0\podminkyDva.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\obj\Debug\net7.0\podminkyDva.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\obj\Debug\net7.0\podminkyDva.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\obj\Debug\net7.0\podminkyDva.dll
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\obj\Debug\net7.0\refint\podminkyDva.dll
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\obj\Debug\net7.0\podminkyDva.pdb
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\obj\Debug\net7.0\podminkyDva.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\podminkyDva\podminkyDva\obj\Debug\net7.0\ref\podminkyDva.dll

@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\bin\Debug\net7.0\JednoduchaKalkulacka.exe
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\bin\Debug\net7.0\JednoduchaKalkulacka.deps.json
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\bin\Debug\net7.0\JednoduchaKalkulacka.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\bin\Debug\net7.0\JednoduchaKalkulacka.dll
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\bin\Debug\net7.0\JednoduchaKalkulacka.pdb
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\obj\Debug\net7.0\JednoduchaKalkulacka.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\obj\Debug\net7.0\JednoduchaKalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\obj\Debug\net7.0\JednoduchaKalkulacka.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\obj\Debug\net7.0\JednoduchaKalkulacka.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\obj\Debug\net7.0\JednoduchaKalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\obj\Debug\net7.0\JednoduchaKalkulacka.dll
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\obj\Debug\net7.0\refint\JednoduchaKalkulacka.dll
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\obj\Debug\net7.0\JednoduchaKalkulacka.pdb
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\obj\Debug\net7.0\JednoduchaKalkulacka.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\JednoduchaKalkulacka\JednoduchaKalkulacka\obj\Debug\net7.0\ref\JednoduchaKalkulacka.dll

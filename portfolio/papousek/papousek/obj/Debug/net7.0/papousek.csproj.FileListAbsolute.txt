@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\bin\Debug\net7.0\papousek.exe
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\bin\Debug\net7.0\papousek.deps.json
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\bin\Debug\net7.0\papousek.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\bin\Debug\net7.0\papousek.dll
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\bin\Debug\net7.0\papousek.pdb
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\obj\Debug\net7.0\papousek.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\obj\Debug\net7.0\papousek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\obj\Debug\net7.0\papousek.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\obj\Debug\net7.0\papousek.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\obj\Debug\net7.0\papousek.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\obj\Debug\net7.0\papousek.dll
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\obj\Debug\net7.0\refint\papousek.dll
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\obj\Debug\net7.0\papousek.pdb
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\obj\Debug\net7.0\papousek.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\papousek\papousek\obj\Debug\net7.0\ref\papousek.dll

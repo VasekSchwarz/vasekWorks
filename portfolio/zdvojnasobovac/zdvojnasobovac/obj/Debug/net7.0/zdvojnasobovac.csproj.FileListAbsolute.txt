@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\bin\Debug\net7.0\zdvojnasobovac.exe
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\bin\Debug\net7.0\zdvojnasobovac.deps.json
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\bin\Debug\net7.0\zdvojnasobovac.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\bin\Debug\net7.0\zdvojnasobovac.dll
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\bin\Debug\net7.0\zdvojnasobovac.pdb
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\obj\Debug\net7.0\zdvojnasobovac.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\obj\Debug\net7.0\zdvojnasobovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\obj\Debug\net7.0\zdvojnasobovac.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\obj\Debug\net7.0\zdvojnasobovac.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\obj\Debug\net7.0\zdvojnasobovac.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\obj\Debug\net7.0\zdvojnasobovac.dll
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\obj\Debug\net7.0\refint\zdvojnasobovac.dll
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\obj\Debug\net7.0\zdvojnasobovac.pdb
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\obj\Debug\net7.0\zdvojnasobovac.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\zdvojnasobovac\zdvojnasobovac\obj\Debug\net7.0\ref\zdvojnasobovac.dll
