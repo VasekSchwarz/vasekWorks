@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\bin\Debug\net6.0\Return-Method.exe
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\bin\Debug\net6.0\Return-Method.deps.json
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\bin\Debug\net6.0\Return-Method.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\bin\Debug\net6.0\Return-Method.dll
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\bin\Debug\net6.0\Return-Method.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\obj\Debug\net6.0\Return-Method.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\obj\Debug\net6.0\Return-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\obj\Debug\net6.0\Return-Method.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\obj\Debug\net6.0\Return-Method.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\obj\Debug\net6.0\Return-Method.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\obj\Debug\net6.0\Return-Method.dll
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\obj\Debug\net6.0\refint\Return-Method.dll
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\obj\Debug\net6.0\Return-Method.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\obj\Debug\net6.0\Return-Method.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\c# english\Return-Method\Return-Method\obj\Debug\net6.0\ref\Return-Method.dll

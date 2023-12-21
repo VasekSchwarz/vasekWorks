@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\obj\Debug\net6.0\gettersSetters.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\obj\Debug\net6.0\gettersSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\obj\Debug\net6.0\gettersSetters.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\obj\Debug\net6.0\gettersSetters.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\obj\Debug\net6.0\gettersSetters.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\bin\Debug\net6.0\gettersSetters.exe
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\bin\Debug\net6.0\gettersSetters.deps.json
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\bin\Debug\net6.0\gettersSetters.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\bin\Debug\net6.0\gettersSetters.dll
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\bin\Debug\net6.0\gettersSetters.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\obj\Debug\net6.0\gettersSetters.dll
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\obj\Debug\net6.0\refint\gettersSetters.dll
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\obj\Debug\net6.0\gettersSetters.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\obj\Debug\net6.0\gettersSetters.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\c# english\gettersSetters\gettersSetters\obj\Debug\net6.0\ref\gettersSetters.dll

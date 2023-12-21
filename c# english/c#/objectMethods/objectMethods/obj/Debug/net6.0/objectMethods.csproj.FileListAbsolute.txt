@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\bin\Debug\net6.0\objectMethods.exe
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\bin\Debug\net6.0\objectMethods.deps.json
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\bin\Debug\net6.0\objectMethods.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\bin\Debug\net6.0\objectMethods.dll
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\bin\Debug\net6.0\objectMethods.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\obj\Debug\net6.0\objectMethods.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\obj\Debug\net6.0\objectMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\obj\Debug\net6.0\objectMethods.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\obj\Debug\net6.0\objectMethods.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\obj\Debug\net6.0\objectMethods.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\obj\Debug\net6.0\objectMethods.dll
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\obj\Debug\net6.0\refint\objectMethods.dll
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\obj\Debug\net6.0\objectMethods.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\obj\Debug\net6.0\objectMethods.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\c# english\objectMethods\objectMethods\obj\Debug\net6.0\ref\objectMethods.dll

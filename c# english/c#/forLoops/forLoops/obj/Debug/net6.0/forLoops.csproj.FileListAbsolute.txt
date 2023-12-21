@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\bin\Debug\net6.0\forLoops.exe
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\bin\Debug\net6.0\forLoops.deps.json
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\bin\Debug\net6.0\forLoops.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\bin\Debug\net6.0\forLoops.dll
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\bin\Debug\net6.0\forLoops.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\obj\Debug\net6.0\forLoops.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\obj\Debug\net6.0\forLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\obj\Debug\net6.0\forLoops.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\obj\Debug\net6.0\forLoops.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\obj\Debug\net6.0\forLoops.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\obj\Debug\net6.0\forLoops.dll
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\obj\Debug\net6.0\refint\forLoops.dll
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\obj\Debug\net6.0\forLoops.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\obj\Debug\net6.0\forLoops.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\c# english\forLoops\forLoops\obj\Debug\net6.0\ref\forLoops.dll

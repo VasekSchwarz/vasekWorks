@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\bin\Debug\net6.0\staticClassattributes.exe
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\bin\Debug\net6.0\staticClassattributes.deps.json
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\bin\Debug\net6.0\staticClassattributes.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\bin\Debug\net6.0\staticClassattributes.dll
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\bin\Debug\net6.0\staticClassattributes.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\obj\Debug\net6.0\staticClassattributes.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\obj\Debug\net6.0\staticClassattributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\obj\Debug\net6.0\staticClassattributes.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\obj\Debug\net6.0\staticClassattributes.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\obj\Debug\net6.0\staticClassattributes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\obj\Debug\net6.0\staticClassattributes.dll
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\obj\Debug\net6.0\refint\staticClassattributes.dll
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\obj\Debug\net6.0\staticClassattributes.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\obj\Debug\net6.0\staticClassattributes.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\c# english\staticClassattributes\staticClassattributes\obj\Debug\net6.0\ref\staticClassattributes.dll

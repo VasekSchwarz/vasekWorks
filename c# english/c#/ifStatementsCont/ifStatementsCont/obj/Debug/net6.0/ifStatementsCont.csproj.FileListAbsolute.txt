@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\bin\Debug\net6.0\ifStatementsCont.exe
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\bin\Debug\net6.0\ifStatementsCont.deps.json
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\bin\Debug\net6.0\ifStatementsCont.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\bin\Debug\net6.0\ifStatementsCont.dll
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\bin\Debug\net6.0\ifStatementsCont.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\obj\Debug\net6.0\ifStatementsCont.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\obj\Debug\net6.0\ifStatementsCont.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\obj\Debug\net6.0\ifStatementsCont.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\obj\Debug\net6.0\ifStatementsCont.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\obj\Debug\net6.0\ifStatementsCont.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\obj\Debug\net6.0\ifStatementsCont.dll
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\obj\Debug\net6.0\refint\ifStatementsCont.dll
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\obj\Debug\net6.0\ifStatementsCont.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\obj\Debug\net6.0\ifStatementsCont.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\c# english\ifStatementsCont\ifStatementsCont\obj\Debug\net6.0\ref\ifStatementsCont.dll

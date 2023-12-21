@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\bin\Debug\net6.0\inheritance.exe
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\bin\Debug\net6.0\inheritance.deps.json
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\bin\Debug\net6.0\inheritance.dll
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\bin\Debug\net6.0\inheritance.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\obj\Debug\net6.0\inheritance.dll
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\obj\Debug\net6.0\refint\inheritance.dll
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\obj\Debug\net6.0\inheritance.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\c# english\inheritance\inheritance\obj\Debug\net6.0\ref\inheritance.dll

@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\bin\Debug\net6.0\staticMethodeandClasses.exe
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\bin\Debug\net6.0\staticMethodeandClasses.deps.json
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\bin\Debug\net6.0\staticMethodeandClasses.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\bin\Debug\net6.0\staticMethodeandClasses.dll
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\bin\Debug\net6.0\staticMethodeandClasses.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\obj\Debug\net6.0\staticMethodeandClasses.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\obj\Debug\net6.0\staticMethodeandClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\obj\Debug\net6.0\staticMethodeandClasses.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\obj\Debug\net6.0\staticMethodeandClasses.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\obj\Debug\net6.0\staticMethodeandClasses.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\obj\Debug\net6.0\staticMethodeandClasses.dll
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\obj\Debug\net6.0\refint\staticMethodeandClasses.dll
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\obj\Debug\net6.0\staticMethodeandClasses.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\obj\Debug\net6.0\staticMethodeandClasses.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\c# english\staticMethodeandClasses\staticMethodeandClasses\obj\Debug\net6.0\ref\staticMethodeandClasses.dll

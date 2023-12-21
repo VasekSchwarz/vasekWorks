@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.exe
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.deps.json
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.runtimeconfig.json
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.dll
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\bin\Debug\net6.0\tryCatch.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.AssemblyInfo.cs
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.dll
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\obj\Debug\net6.0\refint\tryCatch.dll
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.pdb
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\obj\Debug\net6.0\tryCatch.genruntimeconfig.cache
+C:\Users\DELL\Desktop\portfolio\c# english\tryCatch\tryCatch\obj\Debug\net6.0\ref\tryCatch.dll
